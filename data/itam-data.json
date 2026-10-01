@@ -2663,5 +2663,18 @@
       "status": "in_use"
     }
   ],
-  "seeded": "1"
+  "seeded": "1",
+  "faults": [
+    {
+      "equipmentId": "074170",
+      "equipmentName": "ПРИНТЕР HP LASERJET 1020",
+      "title": "не печатает",
+      "description": "",
+      "priority": "medium",
+      "assignee": "",
+      "id": "wtxpsypnra9f",
+      "createdDate": "2026-10-01",
+      "status": "new"
+    }
+  ]
 }
